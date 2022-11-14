@@ -1,11 +1,17 @@
 body{
     background-image: url(images/urquhartbig.jpeg);
-    background-size: contain;
+    background-size: 100%;
     background-color: #628E90;
     color: #B4CDE6;
     padding: 3rem;
-
+    margin: 0px;
+    left: 0;
 }
+
+/* .card {
+  max-width: 100%;
+  height: auto;
+} */
 
 img:hover {
     animation: shake 0.5s;
@@ -31,4 +37,5 @@ img:hover {
     background-color: #628E90;
     color: #F5EFE6; 
 }
+
 
