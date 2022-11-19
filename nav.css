@@ -5,7 +5,10 @@ body {
   }
   
   .navbar {
-    margin-bottom: 20px;
+    margin-bottom: 0;
     background-color: cornflowerblue;
     width: 100%;
+    position: absolute;
+    left:0px;
+    right:0px;
   }
